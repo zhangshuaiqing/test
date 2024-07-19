@@ -1,0 +1,483 @@
+header: 
+  seq: 974
+  stamp: 
+    secs: 1721381710
+    nsecs: 603441477
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 10.65170955657959
+  y: -4.944678221363574e-05
+  z: -4.260307312011719
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.3299635052680969
+  y: -9.039654731750488
+  z: 3.4424943923950195
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 975
+  stamp: 
+    secs: 1721381710
+    nsecs: 608420610
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 4.260314464569092
+  y: 4.260299205780029
+  z: -1.064609169960022
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.3299635052680969
+  y: -9.039654731750488
+  z: 3.4424943923950195
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 976
+  stamp: 
+    secs: 1721381710
+    nsecs: 613506794
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.1956632137298584
+  y: 7.455996990203857
+  z: -3.1956560611724854
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.3201691508293152
+  y: -9.020323753356934
+  z: 3.4430160522460938
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 977
+  stamp: 
+    secs: 1721381710
+    nsecs: 618430376
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 6.391361236572266
+  y: 8.520648002624512
+  z: -1.064609169960022
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.3201691508293152
+  y: -9.020323753356934
+  z: 3.4430160522460938
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 978
+  stamp: 
+    secs: 1721381710
+    nsecs: 623418808
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 6.391361236572266
+  y: 6.391345977783203
+  z: 4.170977626927197e-05
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.33964473009109497
+  y: -9.04011344909668
+  z: 3.462275505065918
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 979
+  stamp: 
+    secs: 1721381710
+    nsecs: 628440142
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 4.260314464569092
+  y: 10.651694297790527
+  z: 2.1293435096740723
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.33964473009109497
+  y: -9.04011344909668
+  z: 3.462275505065918
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 980
+  stamp: 
+    secs: 1721381710
+    nsecs: 633420706
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -2.129336357116699
+  y: 9.587043762207031
+  z: -2.1292600631713867
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.3494959771633148
+  y: -9.08818244934082
+  z: 3.4411845207214355
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 981
+  stamp: 
+    secs: 1721381710
+    nsecs: 638418674
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.064685344696045
+  y: 8.520648002624512
+  z: -3.1956560611724854
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.3494959771633148
+  y: -9.08818244934082
+  z: 3.4411845207214355
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 982
+  stamp: 
+    secs: 1721381710
+    nsecs: 643227816
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -1.064685344696045
+  y: 9.587043762207031
+  z: 1.0646926164627075
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.3497776389122009
+  y: -9.058159828186035
+  z: 3.432097911834717
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 983
+  stamp: 
+    secs: 1721381710
+    nsecs: 648168087
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.1956632137298584
+  y: 4.260299205780029
+  z: -3.1956560611724854
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.3497776389122009
+  y: -9.058159828186035
+  z: 3.432097911834717
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 984
+  stamp: 
+    secs: 1721381710
+    nsecs: 653174162
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -3.451019074418582e-05
+  y: -4.944678221363574e-05
+  z: 4.170977626927197e-05
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.34003955125808716
+  y: -9.028963088989258
+  z: 3.4328856468200684
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 985
+  stamp: 
+    secs: 1721381710
+    nsecs: 658185005
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.1956632137298584
+  y: 7.455996990203857
+  z: -3.1956560611724854
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.34003955125808716
+  y: -9.028963088989258
+  z: 3.4328856468200684
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 986
+  stamp: 
+    secs: 1721381710
+    nsecs: 663200140
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 8.520663261413574
+  y: 1.0646014213562012
+  z: -4.260307312011719
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.32005661725997925
+  y: -9.040053367614746
+  z: 3.442483901977539
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 987
+  stamp: 
+    secs: 1721381710
+    nsecs: 668171644
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 2.1292672157287598
+  y: 2.1292524337768555
+  z: 1.0646926164627075
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.32005661725997925
+  y: -9.040053367614746
+  z: 3.442483901977539
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 988
+  stamp: 
+    secs: 1721381710
+    nsecs: 673170090
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.1956632137298584
+  y: 6.391345977783203
+  z: -3.1956560611724854
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.3697037100791931
+  y: -9.018331527709961
+  z: 3.443068504333496
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 989
+  stamp: 
+    secs: 1721381710
+    nsecs: 678219557
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 4.260314464569092
+  y: 5.324949741363525
+  z: -2.1292600631713867
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.3697037100791931
+  y: -9.018331527709961
+  z: 3.443068504333496
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 990
+  stamp: 
+    secs: 1721381710
+    nsecs: 683169127
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 6.391361236572266
+  y: 9.587043762207031
+  z: -2.1292600631713867
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.3497770428657532
+  y: -9.01955795288086
+  z: 3.452932834625244
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 991
+  stamp: 
+    secs: 1721381710
+    nsecs: 688184261
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: 3.1956632137298584
+  y: 1.0646014213562012
+  z: -3.1956560611724854
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.3497770428657532
+  y: -9.01955795288086
+  z: 3.452932834625244
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 992
+  stamp: 
+    secs: 1721381710
+    nsecs: 693180084
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -3.451019074418582e-05
+  y: 3.195648431777954
+  z: 4.170977626927197e-05
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.3099803328514099
+  y: -9.03144359588623
+  z: 3.462510108947754
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 993
+  stamp: 
+    secs: 1721381710
+    nsecs: 698180914
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -3.451019074418582e-05
+  y: 2.1292524337768555
+  z: -2.1292600631713867
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.3099803328514099
+  y: -9.03144359588623
+  z: 3.462510108947754
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
+header: 
+  seq: 994
+  stamp: 
+    secs: 1721381710
+    nsecs: 703177691
+  frame_id: "camera_imu_optical_frame"
+orientation: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+orientation_covariance: [-1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+angular_velocity: 
+  x: -3.451019074418582e-05
+  y: 6.391345977783203
+  z: 1.0646926164627075
+angular_velocity_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+linear_acceleration: 
+  x: -0.350115567445755
+  y: -9.018271446228027
+  z: 3.423276901245117
+linear_acceleration_covariance: [0.01, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.01]
+---
